@@ -15,6 +15,7 @@ const Styles = () => {
       backgroundColor: 'rgba(0, 0, 0, 0.5)',
     },
     title: {
+      fontFamily: 'Montserrat-Regular',
       color: 'white',
       fontSize: 24,
       marginBottom: 20,
@@ -23,11 +24,13 @@ const Styles = () => {
       alignItems: 'center',
     },
     label: {
+      fontFamily: 'Montserrat-Regular',
       color: 'white',
       fontSize: 18,
       marginBottom: 10,
     },
     input: {
+      color:'white',
       padding: 8,
       paddingHorizontal: 12,
       fontSize: 16,
@@ -36,6 +39,7 @@ const Styles = () => {
       borderRadius: 5,
       width: 250,
       marginBottom: 20,
+      fontFamily: 'Montserrat-Regular',
     },
   })
 }

@@ -8,6 +8,7 @@ const Styles = () => {
       borderRadius: 5,
     },
     buttonText: {
+      fontFamily: 'Montserrat-Regular',
       color: '#fff',
       fontSize: 18,
       textAlign: 'center',
